@@ -1,3 +1,3 @@
-<div>
-    {{-- Stop trying to control. --}}
+<div class="text-red-400">
+    Hello world!
 </div>
